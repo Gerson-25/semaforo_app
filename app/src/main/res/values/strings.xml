@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ejemploApp</string>
+    <string name="stop">STOP</string>
+    <string name="cont">GO AHEAD</string>
+    <string name="prec">WATCH OUT</string>
+</resources>

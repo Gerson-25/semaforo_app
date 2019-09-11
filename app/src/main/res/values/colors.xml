@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="stop">#cc1c25</color>
+    <color name="watch_out">#ffaa2d</color>
+    <color name="go">#3ba000</color>
+    <color name="desactivado">#8f93ab</color>
+</resources>
